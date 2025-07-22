@@ -53,7 +53,7 @@ if __name__ == '__main__':
     webbrowser.get(edge_path).open("http://127.0.0.1:5000")
     app.run(debug=False)
 ```
-### **index.py**
+### **index.html**
 
 ```python
 <!DOCTYPE html>
@@ -88,4 +88,16 @@ if __name__ == '__main__':
 </body>
 </html>
 ```
+---
+#output:
+
+<img width="722" height="392" alt="image" src="https://github.com/user-attachments/assets/f509d152-9a37-4ada-872a-9dfbfacdac77" />
+<img width="695" height="407" alt="image" src="https://github.com/user-attachments/assets/d9bbed27-ba55-4c0e-80f6-11d3bb4795fe" />
+
+#Result :
+
+Finally, the program executes successfully and displays the output as: “Result: Allowed” or “Result: Blocked” based on whether the entered MAC address is verified against the whitelist.ot.
+
+
+
 
