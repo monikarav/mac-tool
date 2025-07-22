@@ -15,7 +15,8 @@ A simple Python-Flask web application to check and validate MAC addresses agains
 
 ##Program
 
-#app.py
+###app.py
+
 ```
 from flask import Flask, render_template, request
 
@@ -50,7 +51,7 @@ if __name__ == '__main__':
     webbrowser.get(edge_path).open("http://127.0.0.1:5000")
     app.run(debug=False)
 ```
-#index.html
+###index.html
 ```
 <!DOCTYPE html>
 <html>
