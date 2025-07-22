@@ -97,7 +97,7 @@ if __name__ == '__main__':
 ---
 # **Result** 
 
-Finally, the program executes successfully and displays the output as: “Result: Allowed” or “Result: Blocked” based on whether the entered MAC address is verified against the whitelist.ot.
+ Finally, the program executes successfully and displays the output as: “Result: Allowed” or “Result: Blocked” based on whether the entered MAC address is verified against the whitelist.ot.
 
 
 
